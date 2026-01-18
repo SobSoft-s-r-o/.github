@@ -1,77 +1,104 @@
-SobSoft — Industrial Software Engineering
+# 🏭 SobSoft — Industrial Software Engineering
 
-Industrial-grade Flutter & Angular applications for automation, finance and production systems.
+**Industrial-grade Flutter & Angular applications for automation, finance, and production systems.**
 
-🌐 https://sobsoft.sk
+🌐 **Website:** https://sobsoft.sk  
 
-🏭 Siemens Industrial Experience (IX) & Climatix specialists
-⚙️ Enterprise Flutter, Angular, Firebase architectures
+---
 
-What We Do
+## Who We Are
 
-SobSoft builds real production software — not marketing demos.
+SobSoft builds **real production software — not marketing demos.**
 
-We specialize in:
+We design and deliver professional, long-term maintainable systems for industrial and enterprise environments where reliability matters most.
 
-🧩 Flutter industrial applications
+### Core Expertise
 
-HMI panels
+- 🏭 **Siemens Industrial Experience (IX) & Climatix specialists**
+- ⚙️ **Enterprise architectures with Flutter, Angular, and Firebase**
+- ☁️ Cloud-native, secure, scalable platforms
 
-Field technician apps
+---
 
-Desktop & mobile cross-platform control systems
+# What We Do
 
-🏗 Angular enterprise dashboards
+### 🧩 Flutter Industrial Applications
 
-Industrial portals
+- HMI control panels  
+- Field technician mobile apps  
+- Desktop & mobile cross-platform control systems  
+- Real-time industrial interfaces  
 
-Financial systems
+### 🏗 Angular Enterprise Dashboards
 
-Production monitoring
+- Industrial web portals  
+- Financial systems  
+- Production monitoring tools  
+- Data visualization platforms  
 
-☁️ Firebase backend platforms
+### ☁️ Firebase Backend Platforms
 
-Realtime data processing
+- Realtime data processing  
+- Offline-first synchronization  
+- Secure role-based architectures  
+- Multi-tenant SaaS systems  
 
-Offline-first sync
+### 🎛 Siemens Industrial Experience (IX / Climatix UI)
 
-Secure role-based architectures
+- Industrial UI standards  
+- Building automation interfaces  
+- Modern HMI UX design  
+- Operator-friendly workflows  
 
-🎛 Siemens Industrial Experience (IX / Climatix UI)
+---
 
-Industrial UI standards
+# Live Production System
 
-Building automation interfaces
+## 💼 s-Invoices — Enterprise Finance Platform
 
-Modern HMI UX
+🔗 **https://app.s-invoices.com**
 
-Live Production System
-s-Invoices — Enterprise Finance Platform
+Enterprise-grade invoicing and finance SaaS built on **Angular + Firebase**
 
-🔗 https://app.s-invoices.com
+**Key Features**
 
-Enterprise-grade invoicing & finance SaaS built on Angular + Firebase
-Realtime data • Multi-tenant SaaS • Secure workflows
+- Realtime data  
+- Multi-tenant SaaS  
+- Secure workflows  
+- Enterprise compliance  
+- Scalable cloud architecture  
 
-Why SobSoft?
-	
-⚡ Industrial reliability	Designed for 24/7 production environments
-🔒 Security	RBAC, encryption, compliance-ready
-🚀 Performance	Sub-second UI response times
-🧱 Maintainability	Clean, documented architectures
-📈 Scalability	From pilot projects to global deployments
-Our Stack
-Layer	Technologies
-UI	Flutter, Angular
-Backend	Firebase, Node, Cloud Functions
-UX Standards	Siemens IX / Climatix
-Infrastructure	Google Cloud, CI/CD
-Contact
+---
 
-🌐 https://sobsoft.sk/sk
+# Why SobSoft?
 
-📩 office@sobsoft.sk
+| Focus Area | What It Means |
+|-----------|---------------|
+| ⚡ Industrial Reliability | Designed for 24/7 production environments |
+| 🔒 Security | RBAC, encryption, compliance-ready |
+| 🚀 Performance | Sub-second UI response times |
+| 🧱 Maintainability | Clean, documented architectures |
+| 📈 Scalability | From pilot projects to global deployments |
 
-💼 https://www.linkedin.com/company/sobsoft
+---
 
-SobSoft — Building production-grade industrial software that scales.
+# Our Technology Stack
+
+| Layer | Technologies |
+|------|-------------|
+| UI | Flutter, Angular |
+| Backend | Firebase, Node.js, Cloud Functions |
+| UX Standards | Siemens IX / Climatix |
+| Infrastructure | Google Cloud, CI/CD |
+
+---
+
+# Contact
+
+🌐 **Website:** https://sobsoft.sk  
+📩 **Email:** office@sobsoft.sk  
+💼 **LinkedIn:** https://www.linkedin.com/company/sobsoft  
+
+---
+
+### SobSoft — Building production-grade industrial software that scales.
