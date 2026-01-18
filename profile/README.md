@@ -1,4 +1,4 @@
-# 🏭 SobSoft — Industrial Software Engineering
+# SobSoft — Industrial Software Engineering
 
 **Industrial-grade Flutter & Angular applications for automation, finance, and production systems.**
 
