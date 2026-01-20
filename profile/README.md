@@ -96,7 +96,7 @@ Enterprise-grade invoicing and finance SaaS built on **Angular + Firebase**
 # Contact
 
 🌐 **Website:** https://sobsoft.sk  
-📩 **Email:** office@sobsoft.sk  
+📩 **Email:** support@sobsoft.sk  
 💼 **LinkedIn:** https://www.linkedin.com/company/sobsoft  
 
 ---
